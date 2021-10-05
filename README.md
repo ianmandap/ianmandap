@@ -1,14 +1,14 @@
 # Hi, I'm Ian!
 
 I'm a Tax CPA turned web developer from the Philippines. I mainly code using Ruby on Rails and JavaScript, but I am always learning. 
-Currently, I am building a [social media app](http://character-archiver.herokuapp.com/) specifically for sharing Dungeons and Dragons (D&D) Character backstories built with Ruby on Rails. 
+Currently, I am building a Ruby on Rails [social media app](http://character-archiver.herokuapp.com/) specifically for sharing Dungeons and Dragons (D&D) Character backstories.
 
-I am also looking for work opportunities to expand my potential in web development. Reach me through [LinkedIn](http://www.linkedin.com/in/theIanMilan/) or send me an ✉️ [email](mailto:mandap.fmg@gmail.com)!
+I am also looking for work opportunities to expand my potential in web development. Find my resume [here](https://app.luminpdf.com/viewer/615bbb90680b290013d01cdf) and reach me through [LinkedIn](https://www.linkedin.com/in/ianmandap/) or send me an ✉️ [email](mailto:mandap.fmg@gmail.com)!
 
 ## 💡 Project Highlights
 
+- [**Character Archiver App**](github.com/theIanMilan/character-archiver): Ruby on Rails social media app for sharing Dungeons and Dragons (D&D) characters and their rich backstories. [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 - [**StockUp App**](https://github.com/theIanMilan/stock-trading-app): Ruby on Rails app that simulates stock trading with initial data provided by an API. [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
-- [**OurJournal Task App**](https://github.com/theIanMilan/Journal): Ruby on Rails task management app for keeping track of tasks or to-dos. [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 - [**Adjacent Artists App**](https://github.com/theIanMilan/avion/tree/main/Avion%20Projects/Adjacent%20Artists): JavaScript media discovery app that allows users to explore music, movies, shows, podcasts or games. [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 - [**Emoji Tic-Tac-Toe**](https://github.com/theIanMilan/avion/tree/main/Avion%20Projects/Tic-Tac-Toe): JavaScript web app that allows users to play Tic-Tac-Toe against an A.I. using emojis on a 3x3 to 7x7 grid. [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 - [**Project Euler Ruby Code**](https://github.com/theIanMilan/project-euler): I sometimes like to solve problems on Project Euler for fun! [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
