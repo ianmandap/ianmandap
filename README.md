@@ -7,7 +7,7 @@ I am also looking for work opportunities to expand my potential in web developme
 
 ## 💡 Project Highlights
 
-- [**Character Archiver App**](github.com/theIanMilan/character-archiver): Ruby on Rails social media app for sharing Dungeons and Dragons (D&D) characters and their rich backstories. [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
+- [**Character Archiver App**](https://github.com/theIanMilan/character-archiver): Ruby on Rails social media app for sharing Dungeons and Dragons (D&D) characters and their rich backstories. [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 - [**StockUp App**](https://github.com/theIanMilan/stock-trading-app): Ruby on Rails app that simulates stock trading with initial data provided by an API. [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 - [**Adjacent Artists App**](https://github.com/theIanMilan/avion/tree/main/Avion%20Projects/Adjacent%20Artists): JavaScript media discovery app that allows users to explore music, movies, shows, podcasts or games. [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 - [**Emoji Tic-Tac-Toe**](https://github.com/theIanMilan/avion/tree/main/Avion%20Projects/Tic-Tac-Toe): JavaScript web app that allows users to play Tic-Tac-Toe against an A.I. using emojis on a 3x3 to 7x7 grid. [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
