@@ -3,7 +3,11 @@
 I'm a Tax CPA turned web developer from the Philippines. I mainly code using Ruby on Rails and JavaScript, but I am always learning. 
 Currently, I am building a Ruby on Rails [social media app](http://character-archiver.herokuapp.com/) specifically for sharing Dungeons and Dragons (D&D) Character backstories.
 
-I am also looking for work opportunities to expand my potential in web development. Find my resume [here](https://app.luminpdf.com/viewer/616635d35fff150011c79fbd) and reach me through [LinkedIn](https://www.linkedin.com/in/ianmandap/) or send me an ✉️ [email](mailto:mandap.fmg@gmail.com)!
+## ✉️ Contact
+
+👉 My [resume](https://app.luminpdf.com/viewer/616635d35fff150011c79fbd)<br>
+👉 Reach me through [LinkedIn](https://www.linkedin.com/in/ianmandap/)<br>
+👉 Or send me an ✉️ [email](mailto:mandap.fmg@gmail.com)!<br>
 
 ## 💡 Project Highlights
 
