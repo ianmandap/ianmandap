@@ -1,7 +1,6 @@
 # Hi, I'm Ian!
 
-I'm a Tax CPA turned web developer from the Philippines. I mainly code using Ruby on Rails and JavaScript, but I am always learning. 
-Currently, I am building a Ruby on Rails [social media app](http://character-archiver.herokuapp.com/) specifically for sharing Dungeons and Dragons (D&D) Character backstories.
+I'm a Ruby on Rails and ReactJS Software Developer and was previously a Tax Certified Public Accountant for 2.5 years. I'm enjoying the coding life now 👨‍💻
 
 ## ✉️ Contact
 
